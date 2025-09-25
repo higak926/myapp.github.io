@@ -31,7 +31,7 @@ function Header() {
   return (
     <>
       <div className="p-3 flex items-center">
-        <a href="/">
+        <a href="/head-cat">
           <img src={catBeerUrl.src} className="w-24 rounded-full"></img>
         </a>
         <div
